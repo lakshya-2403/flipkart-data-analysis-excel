@@ -18,38 +18,38 @@ Through structured analysis sheets and an integrated dashboard, the project prov
 - Evaluates **ticket trends and performance over time** (daily, weekly, monthly).  
 - Tracks **response efficiency**, **SLA compliance**, and **issue volume variation**.  
 - Helps identify patterns in **customer service workload** and **resolution delays**.  
-![Time Based Performance](images/time_based_performance.png)
+![Time Based Performance](time_based_performance.png)
 
 ### **3. Call Centre Performance**
 - Focuses on analyzing **call support performance** metrics.  
 - Includes details such as **calls handled**, **average call duration**, and **resolution rate**.  
 - Highlights **high-performing agents** and **peak activity periods** to assess efficiency.  
-![Call Centre Performance](images/call_centre.png)
+![Call Centre Performance](call_centre.png)
 
 ### **4. Channel Effectiveness**
 - Compares performance across **customer communication channels** like App, Email, Call, and Chat.  
 - Tracks key metrics including **Response Time**, **Resolution Rate**, and **Customer Satisfaction Score**.  
 - Provides insights to **optimize resource allocation** and improve service consistency across channels.  
-![Channel Effectiveness](images/channel_effectiveness.png)
+![Channel Effectiveness](channel_effectiveness.png)
 
 ### **5. SLA and Response Time**
 - Measures **Service Level Agreement (SLA)** compliance and **response efficiency** across all tickets.  
 - Displays key metrics such as **SLA Met %**, **Average Response Time**, and **Breach Count**.  
 - Identifies bottlenecks and delays that impact timely **issue resolution** and **customer satisfaction**.  
-![SLA and Response Time](images/sla_response.png)
+![SLA and Response Time](sla_response.png)
 
 ### **6. Sentiment Analysis**
 - Analyzes **customer feedback** to classify sentiment as **Positive**, **Neutral**, or **Negative**.  
 - Visualizes sentiment distribution across **issue types**, **channels**, and **regions**.  
 - Helps monitor **customer satisfaction trends** and identify areas needing service improvement.  
-![Sentiment Analysis](images/sentiment_analysis.png)
+![Sentiment Analysis](sentiment_analysis.png)
 
 ### **7. Statewise Analysis**
 - Provides a **regional breakdown** of customer service performance by **state**.  
 - Tracks key indicators such as **ticket volume**, **average response time**, and **SLA compliance rate**.  
 - Highlights **top-performing regions** and identifies **areas with higher complaint frequency**.  
 - Supports data-driven decisions for improving **regional operations and resource allocation**.  
-![Statewise Analysis](images/statewise.png)
+![Statewise Analysis](statewise.png)
 
 
 ### **8. Dashboard**
